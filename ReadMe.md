@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Licenciatura em computação<br>Em busca de projetos na área de desenvolvimento web<br>
+Computing degree student<br>Looking for projects in the area of ​​web development<br>
 
 
 ## 🌐 Socials:
