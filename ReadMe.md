@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Computing degree student<br>Looking for projects in the area of ​​web development<br>
+Computing degree student<br>looking for projects in the area of ​​front-end web development<br>
 
 ## 🌐 Socials:
 
@@ -8,7 +8,7 @@ Computing degree student<br>Looking for projects in the area of ​​web develo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a%C3%A9cio-jos%C3%A9-a02909260/)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/aeciogaecio)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,7 +21,7 @@ Computing degree student<br>Looking for projects in the area of ​​web develo
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Node.Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![Aécio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AecioJose189&show_icons=true&theme=transparent)
 
