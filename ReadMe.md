@@ -23,7 +23,7 @@ Computing degree student<br>Looking for projects in the area of ​​web develo
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AecioJose189&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Aécio's GitHub stats](https://github-readme-stats.vercel.app/api?username=AecioJose189&show_icons=true&theme=transparent)
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
