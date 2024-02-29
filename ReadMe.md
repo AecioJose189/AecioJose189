@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Computing degree student<br>looking for projects in the area of ​​front-end web development<br>
+Computing degree student<br>looking for projects in the area of ​​Full Stack web development<br>
 
 ## 🌐 Socials:
 
