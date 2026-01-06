@@ -20,7 +20,7 @@ I have experience with Salesforce CRM and the Zoho ecosystem (CRM, Desk, Marketi
 
 ## 📚 Portifólio:
 
-Em construção
+[Portifólio](https://portifolioaecio.vercel.app/)
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
